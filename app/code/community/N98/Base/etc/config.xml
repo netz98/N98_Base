@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <N98_Base>
+            <version>1.0.0</version>
+        </N98_Base>
+    </modules>
+    <global>
+        <helpers>
+            <n98_base>
+                <class>N98_Base_Helper</class>
+            </n98_base>
+        </helpers>
+    </global>
+</config>

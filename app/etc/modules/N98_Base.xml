@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!--
+/**
+ *
+ * @category    N98
+ * @package     N98_Base
+ * @copyright   Copyright (c) 2012 netz98 new media gmbh
+ */
+-->
+<config>
+    <modules>
+        <N98_Base>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                 <Mage_Adminhtml />
+            </depends>
+        </N98_Base>
+    </modules>
+</config>

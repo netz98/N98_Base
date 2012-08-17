@@ -1,2 +1,2 @@
-app/etc/modules/N98_Base.xml    app/etc/modules/N98_Base.xml
-app/code/community/N98/Base     app/code/community/N98/Base
+src/app/etc/modules/N98_Base.xml    app/etc/modules/N98_Base.xml
+src/app/code/community/N98/Base     app/code/community/N98/Base

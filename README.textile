@@ -1,0 +1,7 @@
+h1. N98_Base Magento Module
+
+This module is a base for many netz98 modules.
+
+h2. Functionality
+
+* It adds a new tab "n98" in the system configuration menu
